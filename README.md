@@ -1,7 +1,7 @@
 # HTML CSS JS ile Parallax Effect Yapımı
 
 ## Github
-* Github içerisinde projenin sadece resim dosyaları bulunmaktadır.
+  * Github içerisinde projenin sadece <b> resim </b> dosyaları bulunmaktadır.
 * Projenin kaynak kodları [https://buymeacoffee.com/yazilimvegelisim/e/311076](https://buymeacoffee.com/yazilimvegelisim/e/311076) adresinde bulunmaktadır.
    * Zira balık tutmayı öğrenmek başka, balığı istemek başkadır. Tutmak yerine kolayca erişim sağlamak isteyenler balığın parasını ödemelidirler 💵
 
